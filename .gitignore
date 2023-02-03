@@ -34,3 +34,25 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+dist
+dist-types
+storybook-static
+coverage
+jest-sonar
+/.idea/
+.history
+build
+npm-debug.log
+/.vscode/
+.cache
+.eslintcache
+.vscode
+lerna-debug.log
+.scannerwork
+
+# ignore macOS file
+.DS_Store
+
